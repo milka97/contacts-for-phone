@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="title_activity_scrolling"></string>
+    <string name="title_activity_edit_scrolling"></string>
+    <string name="already_exists">This name already exists</string>
+    <string name="delete">Are you sure you want to delete contact?</string>
+
+</resources>
